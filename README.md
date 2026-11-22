@@ -1,6 +1,5 @@
 # Sekreterim — Financial Tracker for Small Businesses
 
-[![CI](https://github.com/KorkutOzdemir/sekreterim-app/actions/workflows/ci.yml/badge.svg)](https://github.com/KorkutOzdemir/sekreterim-app/actions/workflows/ci.yml)
 ![Flutter](https://img.shields.io/badge/Flutter-Dart%203-02569B?logo=flutter)
 ![Platform](https://img.shields.io/badge/platform-Android-3DDC84?logo=android)
 ![License](https://img.shields.io/badge/license-MIT-blue)
@@ -116,6 +115,4 @@ Being upfront about the current state of the project:
 - [ ] Optional encrypted backups
 - [ ] English UI localisation
 
-## License
 
-[MIT](LICENSE)
