@@ -6,7 +6,6 @@
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Status](https://img.shields.io/badge/status-work%20in%20progress-orange)
 
-🇹🇷 [Türkçe README](README.tr.md)
 
 **Sekreterim** ("My Secretary") is an offline-first Flutter app that helps small business owners and bookkeepers keep track of **post-dated cheques and promissory notes**, counterparties, daily tasks and live FX / gold rates, all in one place.
 
